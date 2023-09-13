@@ -1,0 +1,13 @@
+name: PHYS3009_fermipy
+channels:
+  - fermi
+  - conda-forge
+dependencies:
+  - python=3.9
+  - fermitools>=2.2.0
+  - healpy
+  - gammapy
+  - pip
+  - pip:
+    - fermipy
+    
