@@ -1,7 +1,7 @@
 data:
   evfile : RXJ1713.7-3946.lst
   scfile : L230831165314B24E85D632_SC00.fits
-#  ltcube : ltcube_00.fits
+  ltcube : ltcube_00.fits
 
 binning:
   roiwidth   : 10.0
